@@ -1,0 +1,19 @@
+{
+  "name": "service_model",
+  "version": "1.0.0",
+  "description": "Service to work with API Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermecruzdev/service_model.git"
+  },
+  "author": "https://guilhermecruzdev.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermecruzdev/service_model/issues"
+  },
+  "homepage": "https://github.com/guilhermecruzdev/service_model#readme"
+}
