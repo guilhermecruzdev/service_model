@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guilhermecruzdev/service_model/issues"
   },
-  "homepage": "https://github.com/guilhermecruzdev/service_model#readme"
+  "homepage": "https://github.com/guilhermecruzdev/service_model#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
